@@ -1,0 +1,13 @@
+(\.|^)360\.cn$
+(\.|^)360safe\.com$
+(\.|^)amazon\.com$
+(\.|^)amzn\.com$
+(\.|^)etsy\.com$
+(\.|^)googlevideo\.com$
+(\.|^)shopping\.google\.com$
+(\.|^)target\.com$
+(\.|^)youtube\.com$
+(\.|^)youtube\.l\.google\.com$
+(\.|^)youtubekids\.com$
+(\.|^)ytimg\.com$
+(\.|^)ytimg\.l\.google\.com$
